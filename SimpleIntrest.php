@@ -30,7 +30,7 @@
         $r = floatval($_POST["rate"]);
 
         $simpleintrest = ($p * $t * $r) / 100;
-        echo"<h2> The simple intrest is $simpleintrest</h2>";
+        echo"<h2> The simple intrest of principle amount :{$p} with rate of intrest {$r} for time {$t} years is $simpleintrest</h2>";
        }
        else{
 
