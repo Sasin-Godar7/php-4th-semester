@@ -1,0 +1,15 @@
+Name: Sasin Godar
+Roll: 2
+Class: BCA
+Phone: 123456789
+Email: sasinxettry@gmail.com
+Address: BVA-9
+------------------------
+Name: Sasin Godar
+Roll: 2
+Class: BCA
+Phone: 123456789
+Email: sasinxettry@gmail.com
+Address: BVA-9
+------------------------
+Name: Sasin Godar | Roll: 2 | Class: BCA | Phone: 123456789 | Email: sasinxettry@gmail.com | Address: BVA-9
