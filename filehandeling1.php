@@ -53,7 +53,7 @@
         $myfile = fopen("newfile.txt", "a") or die("Unable to open file!");
 
         // Prepare formatted data to write
-        $data = "Name: $name | Roll: $roll | Class: $class | Phone: $phone | Email: $email | Address: $address\n";
+        $data = " $name,$roll,$class,$phone,$email,$address\n";
 
         fwrite($myfile, $data);
         fclose($myfile);
