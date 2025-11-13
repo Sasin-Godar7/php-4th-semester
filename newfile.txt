@@ -1,0 +1,2 @@
+ prabin,3,BCA,9876677611,sago_bca2080@lict.edu.np,xxa-1
+ rajan,1,CSIT,9876677611,rapo_bca2080@lict.edu.np,gda-2
