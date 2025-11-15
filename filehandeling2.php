@@ -32,6 +32,8 @@ if (file_exists("newfile.txt")) {
         }
     }
 
+
+    
     echo "</table>";
     fclose($fp);
 } else {
