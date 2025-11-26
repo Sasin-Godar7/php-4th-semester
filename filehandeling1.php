@@ -33,7 +33,7 @@
 
         <label for="address">Address :</label>
         <input type="text" name="address" placeholder="xxx-3" required>
-        <br><br>
+        <br><br> 
 
         <input type="submit" value="Save" name="btn1">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
